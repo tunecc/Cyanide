@@ -1,3 +1,6 @@
+# 上游支持简中了，此仓库归档
+
+
 ## Supported devices
 
 **iPhone and iPad running iOS/iPadOS 17.0 – 18.7.1, or 26.0 – 26.0.1.**
